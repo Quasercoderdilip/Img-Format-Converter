@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  color: #333;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.checkbox-group {
+  margin-top: 10px;
+}
+.checkbox-item {
+  margin-right: 15px;
+}
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #45a049;
+}
+
+
+.result-item {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.back-link {
+  display: inline-block;
+  margin-top: 20px;
+}
